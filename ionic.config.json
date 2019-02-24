@@ -1,0 +1,8 @@
+{
+  "name": "pilotApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "id": "d0dfe271"
+}
